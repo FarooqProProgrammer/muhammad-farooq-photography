@@ -37,7 +37,7 @@ export default function TeamSection() {
                       <a href="#">
                         <i className="ti-linkedin"></i>
                       </a>
-                      <p>kristin@danphoto.com</p>
+                      <p>kristin@muhammadfarooq.com</p>
                     </div>
                   </div>
                 </div>
@@ -62,7 +62,7 @@ export default function TeamSection() {
                       <a href="#">
                         <i className="ti-linkedin"></i>
                       </a>
-                      <p>nelsan@danphoto.com</p>
+                      <p>nelsan@muhammadfarooq.com</p>
                     </div>
                   </div>
                 </div>
@@ -87,7 +87,7 @@ export default function TeamSection() {
                       <a href="#">
                         <i className="ti-linkedin"></i>
                       </a>
-                      <p>micheal@danphoto.com</p>
+                      <p>micheal@muhammadfarooq.com</p>
                     </div>
                   </div>
                 </div>
